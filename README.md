@@ -1,4 +1,4 @@
-# IDATG2208-Oblig-1
+# IDATG2208-Assignment-2
 
 <h3><center>IDATG2208 – Introduksjon til maskinlæring </h3>
 
